@@ -1,0 +1,20 @@
+# Core
+streamlit==1.37.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+plotly==5.23.0
+yfinance==0.2.43
+
+# Machine Learning / Deep Learning
+scikit-learn==1.5.1
+tensorflow==2.17.0
+
+# Technical indicators
+ta==0.10.2
+
+# Gemini API (Google Generative AI)
+google-generativeai==0.8.3
+
+# Utilities
+requests==2.32.3
